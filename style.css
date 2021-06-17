@@ -1,7 +1,4 @@
-div{
-    color:white;
-    text-align: center;
-}
+
 a{
     color: darkcyan;
     text-align:left;
@@ -12,7 +9,11 @@ body{
 h1{
     color: black;
     font-style: oblique;
+    text-align: center;
 }
 h2{
     text-align: left;
+}
+p{
+    float: right
 }
